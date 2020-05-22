@@ -1,0 +1,55 @@
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\Islemler.sdf
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.exe.config
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.exe
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.pdb
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csprojResolveAssemblyReference.cache
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.Properties.Resources.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csproj.GenerateResource.Cache
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.exe
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.pdb
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmUrunGiris.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmUlasim.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmBuyukbas.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmGiris.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmKucukBas.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmUrunSatis.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmYetkili.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csproj.ResolveComReference.cache
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmMenu.resources
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\Interop.WMPLib.dll
+C:\Users\xbrkn\Desktop\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.exe.config
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csproj.ResolveComReference.cache
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.exe
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.pdb
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\Islemler.sdf
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.exe
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.pdb
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\Interop.WMPLib.dll
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csprojResolveAssemblyReference.cache
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmBuyukbas.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmGiris.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmKonumAdres.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmKucukBas.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmMenu.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmUlasim.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmUrunGiris.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmUrunSatis.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.frmYetkili.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER_HELP_AUTOMATİON.Properties.Resources.resources
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csproj.GenerateResource.Cache
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\IslemlerDataSet.Designer.cs
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\IslemlerDataSet.xsc
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\IslemlerDataSet.xsd
+C:\Users\xbrkn\Desktop\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\IslemlerDataSet.xss
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\bin\Debug\FARMER-HELP-AUTOMATİON.exe.config
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.csproj.ResolveComReference.cache
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.exe
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\ÖNEMLİ !!!\FARMER-HELP-AUTOMATİON\FARMER-HELP-AUTOMATİON\obj\x86\Debug\FARMER-HELP-AUTOMATİON.pdb
